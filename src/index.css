@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+/* .css-selector {
+    background: linear-gradient(321deg, #b09424, #c322bc);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 23s ease infinite;
+    -moz-animation: AnimationName 23s ease infinite;
+    animation: AnimationName 23s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:71% 0%}
+    50%{background-position:30% 100%}
+    100%{background-position:71% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:71% 0%}
+    50%{background-position:30% 100%}
+    100%{background-position:71% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:71% 0%}
+    50%{background-position:30% 100%}
+    100%{background-position:71% 0%}
+} */
+
+/* @keyframes move-it {
+    0% {
+      background-position: initial;
+    }
+    100% {
+      background-position: 100px 0px;
+    }
+  }
+  
+  body {  
+    background: repeating-linear-gradient(
+    45deg,
+    #03071f,
+    #dfe1eb 5%,
+    #050b2b 5%,
+    #d8d9e0 10%
+  );
+    background-size: 100px 100px;
+    animation: move-it 2s linear infinite;
+    /* backface-visibility: hidden;
+   } */
+  /* */
